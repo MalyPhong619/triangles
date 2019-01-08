@@ -1,5 +1,6 @@
 import './styles.css';
 import { Triangles } from './triangle.js';
+import $ from 'jquery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
