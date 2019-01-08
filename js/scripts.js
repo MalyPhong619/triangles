@@ -1,5 +1,5 @@
 $(document).ready(function() {
- $(".triangleForm").submit(function(event) {
+ $(".trianglesForm").submit(function(event) {
    event.preventDefault();
 
    var a = parseInt($("#sideOne").val());
